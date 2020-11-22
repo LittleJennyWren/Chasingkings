@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Chasing Kings! 
 
-You can use the [editor on GitHub](https://github.com/LittleJennyWren/Lets-make-a-website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### "One king knows another king" 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here at Chasing Kings, our mission is for you to enjoy your Racing Kings games to the fullest and to improve with practice, 
+
 
 ### Markdown
 
