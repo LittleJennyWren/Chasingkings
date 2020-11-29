@@ -1,38 +1,46 @@
-## Welcome to Chasing Kings! 
+# *<img src="https://i.ibb.co/bvPhcdB/20201128-231047.png" alt="20201128-231047" border="0"> Welcome to Chasing Kings!*
 
-### "One king knows another king" 
+ 
+
+## _"One king knows another king"_
 
 Here at Chasing Kings, our mission is for you to enjoy your Racing Kings games to the fullest and to improve with practice, 
 
 
-### Markdown
+### Tips and lessons 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Learn all about how to play Racing Kings from knowing how the peices move to how to use epic traps! 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Find other people on the same path 
 
-1. Numbered
-2. List
+The great thing is, you're going to find other people, like you who love Racing Kings and want to improve too! You never know who you might meet. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### And yes, everything, and I mean _everything_ here is *free*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We won't display ads, and we won't track you or sell yyor information to trackers. That's not the point, anyways, what does that have to do with this? 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LittleJennyWren/Lets-make-a-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Spread the love ♥️
 
-### Support or Contact
+If you love this, you can [donate](https://Lichess.org/patron) to the website who inspired this, [Lichess](https://Lichess.org) or you can spread the word! We need people like you, people that will view this site and if you did share it, you're awesome! 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
+
+
+### Support and Contact
+
+Having trouble with Chasing kings? You shouldn't even spend a n hour like that. Let us know! Contact us on [GIThub](https://Github.com/chasingkings) or in the forum! 
+
+######[GIThub](https://Github.com/chasingkings) [Crowdin](https://crowdin.com/profile/JennyWren) 
