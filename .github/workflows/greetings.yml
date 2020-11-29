@@ -1,0 +1,13 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting: Welcome to Chasing Kings!!! Thank you for coming
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Welcome to Chasing Kings! Woah, I can't believe it, first issue! Let's get going and hopefully we'll have some fun 😃'' first issue'
+        pr-message: 'Hey there, thank you for contributing to this project! '' first pr'
